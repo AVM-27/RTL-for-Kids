@@ -1,10 +1,3 @@
-//==================================================
-// Filename       : README.md
-// Description    : Documentation for 8-bit ALU module and testbench
-// GitHub         : https://github.com/AVM-27
-// Author         : Adarsh Venugopal
-// Created On     : 2025-08-02
-//==================================================
 
 # 🧮 8-bit ALU (Arithmetic Logic Unit)
 
