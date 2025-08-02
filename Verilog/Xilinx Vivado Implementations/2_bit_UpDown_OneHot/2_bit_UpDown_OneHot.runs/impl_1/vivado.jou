@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Aug 11 11:48:53 2024
+# Process ID: 36892
+# Current directory: C:/Users/Adarsh Venugopal/Desktop/SEM 5/ELECTRONIC SYSTEM LEVEL DESIGN AND VERIFICATION/2_bit_UpDown_OneHot/2_bit_UpDown_OneHot.runs/impl_1
+# Command line: vivado.exe -log top_module.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_module.tcl -notrace
+# Log file: C:/Users/Adarsh Venugopal/Desktop/SEM 5/ELECTRONIC SYSTEM LEVEL DESIGN AND VERIFICATION/2_bit_UpDown_OneHot/2_bit_UpDown_OneHot.runs/impl_1/top_module.vdi
+# Journal file: C:/Users/Adarsh Venugopal/Desktop/SEM 5/ELECTRONIC SYSTEM LEVEL DESIGN AND VERIFICATION/2_bit_UpDown_OneHot/2_bit_UpDown_OneHot.runs/impl_1\vivado.jou
+# Running On        :DESKTOP-9JRQ63P
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :12th Gen Intel(R) Core(TM) i7-1260P
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:12
+# CPU Logical cores :16
+# Host memory       :16890 MB
+# Swap memory       :11495 MB
+# Total Virtual     :28386 MB
+# Available Virtual :5768 MB
+#-----------------------------------------------------------
+source top_module.tcl -notrace
