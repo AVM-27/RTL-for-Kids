@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Adarsh Venugopal/Desktop/SEM 5/ELECTRONIC SYSTEM LEVEL DESIGN AND VERIFICATION/1011_moore/1011_moore.srcs/sources_1/new/moore_1011.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore_1011
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Adarsh Venugopal/Desktop/SEM 5/ELECTRONIC SYSTEM LEVEL DESIGN AND VERIFICATION/1011_moore/1011_moore.srcs/sources_1/new/moore_1011_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore_1011_tb
