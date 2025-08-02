@@ -1,0 +1,10 @@
+
+
+OPTION psf_version = 2.1;
+
+BEGIN DRIVER counter_top
+	OPTION supported_peripherals = (counter_top);
+	OPTION copyfiles = all;
+	OPTION VERSION = 1.0;
+	OPTION NAME = counter_top;
+END DRIVER
