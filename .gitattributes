@@ -1,0 +1,4 @@
+
+# Force GitHub Linguist to correctly detect RTL files
+*.v linguist-language=Verilog
+*.sv linguist-language=SystemVerilog
